@@ -1,0 +1,62 @@
+body {
+  margin: 0%;
+  background-color: rgb(240, 239, 238);
+}
+.header {
+  height: 18.5em;
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 2em;
+}
+
+.header h1 {
+  margin-top: 0%;
+  padding-right: 8em;
+  padding-top: 0.3em;
+  text-align: right;
+  font-weight: 350;
+  font-size: 60px;
+  margin-bottom: 0%;
+}
+
+.header p {
+  padding-right: 6em;
+  text-align: right;
+  font-weight: 360;
+  font-size: 40px;
+  padding-top: 1px;
+  margin-top: 0%;
+}
+
+.desserts {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.desserts td {
+  width: 50%;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.desserts p {
+  text-align: left;
+}
+
+.desserts img {
+  max-width: 60%;
+}
+
+.footer {
+  background-color: rgba(76, 195, 195, 0.932);
+  height: 9em;
+}
+
+.footer h2 {
+  font-weight: 600;
+  padding-top: 0.8em;
+  padding-left: 1em;
+}
+
